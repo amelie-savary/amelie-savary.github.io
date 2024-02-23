@@ -483,10 +483,12 @@ p{
 }
 
 .images .image-card .image-left{
+	position: absolute;
+	margin-left: 50px;
 	margin-right: 40px;
 }
 
 .images .image-card .image-left img{
 	height: 200px;
-	width: 400px;
+	width: 200px;
 }
