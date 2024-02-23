@@ -474,6 +474,9 @@ p{
 
 .images{
 	margin-top: 40px;
+	postion: absolute;
+	left: 20%;
+	right: 20%;
 }
 
 .images .image-card{
