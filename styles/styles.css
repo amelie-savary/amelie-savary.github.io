@@ -180,14 +180,14 @@ p{
 }
 
 .instruction{
-  position: absolute;
+  position: relative;
   top: 160%;
   left: 10%;
   transform: translate(-50%, -50%);
 }
 
 .book{
-  position: absolute;
+  position: relative;
   top: 120%;
   left: 10%;
   width: 500px;
