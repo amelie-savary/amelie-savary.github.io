@@ -487,8 +487,8 @@ p{
 }
 
 .images .image-card .image-left img{
-	height: 200px;
-	width: 200px;
+	height: 400px;
+	width: 400px;
 }
 
 .images .image-card .image-right{
@@ -496,7 +496,7 @@ p{
 }
 
 .images .image-card .image-right h4{
-	font-size:3rem;
+	font-size:2rem;
 	margin-bottom:20px;
 }
 
