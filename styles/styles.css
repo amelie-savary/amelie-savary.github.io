@@ -495,12 +495,12 @@ p{
 	margin-right: 40px;
 }
 
-.images .image-card .image-left h4{
+.images .image-card .image-right h4{
 	font-size:3rem;
 	margin-bottom:20px;
 }
 
-.images .image-card .image-left p{
+.images .image-card .image-right p{
 	font-size:1.5rem;
 	line-height:1.5em;
 }
