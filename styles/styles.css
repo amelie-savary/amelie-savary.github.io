@@ -184,15 +184,15 @@ p{
   box-sizing: border-box;
 }
 
-.instruction,{
+.instruction{
   position: absolute;
   top: 160%;
-  left: 80%;
+  left: 90%;
   transform: translate(-50%, -50%);
 }
 
-.book {
-position: absolute;
+.book{
+  position: absolute;
   top: 120%;
   left: 40%;
   width: 500px;
