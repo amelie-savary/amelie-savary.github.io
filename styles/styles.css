@@ -55,6 +55,7 @@ p{
 
 .section{
 	padding:100px 0;
+	background: #FFFFFF;
 }
 
 .boxed{
@@ -469,4 +470,23 @@ p{
   background: #fff7;
   border-radius: 15px;
   padding: 10px 15px;
+}
+
+.images{
+	margin-top: 40px;
+}
+
+.images .image-card{
+	display: flex;
+	align-items: center;
+	margin-bottom: 50px;
+}
+
+.images .image-card .image-left{
+	margin-right: 40px;
+}
+
+.images .image-card .image-left img{
+	height: 200px;
+	width: 400px;
 }
