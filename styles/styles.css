@@ -183,7 +183,7 @@ p{
 .book{
   position: absolute;
   top: 120%;
-  left: 60%;
+  left: 55%;
   width: 500px;
   height: 600px;
   transform: translate(-50%, -50%) rotatex(10deg) rotatey(-10deg);
