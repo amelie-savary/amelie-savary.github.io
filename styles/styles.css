@@ -179,12 +179,6 @@ p{
   box-sizing: border-box;
 }
 
-.instruction{
-  position: absolute;
-  top: 150%;
-  left: 70%;
-  transform: translate(-50%, -50%);
-}
 
 .book{
   position: absolute;
