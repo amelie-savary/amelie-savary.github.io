@@ -484,6 +484,21 @@ p{
 .images .image-card .image-left img{
 	height: 400px;
 	width: 400px;
+	width:100%;
+	height:100%;
+	object-fit: cover;
+	filter:brightness(50%);
+	transition:.4s ease;
+}
+
+.images .image-card .image-left a{
+	display: block;
+	width:100%;
+	height:100%;
+}
+
+.images .image-card .image-left:hover img{
+	filter: brightness(70%);
 }
 
 .images .image-card .image-right{
