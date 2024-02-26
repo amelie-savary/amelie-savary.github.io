@@ -503,6 +503,7 @@ p{
 
 .images .image-card .image-right{
 	margin-right: 40px;
+	style:"text-decoration:none";
 }
 
 .images .image-card .image-right h4{
