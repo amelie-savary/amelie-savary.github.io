@@ -72,8 +72,9 @@ p{
 }
 
 .photo .img{
-	height: 100px;
-	width: 150px;
+	content:fit;
+	height: 10px;
+	width: 15px;
 }
 
 .w60{
