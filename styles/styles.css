@@ -48,7 +48,7 @@ p{
 	font-weight:300;
 }
 
-.slider-content .photo img{
+.slider-content photo img{
 	postion: absolute;
 	top:30%;
 	right: 25%;
