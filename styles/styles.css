@@ -71,6 +71,11 @@ p{
 	width:40%;
 }
 
+.w40 .img{
+	height: 100px;
+	width: 150px;
+}
+
 .w60{
 	width:60%
 }
