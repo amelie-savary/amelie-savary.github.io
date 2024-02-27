@@ -49,9 +49,9 @@ p{
 }
 
 .slider-content photo img{
-	postion: relative;
-	height: 200px;
-	width: 290px;
+	postion: absolute;
+	height: 10%;
+	width: 15%;
 }
 
 .section{
