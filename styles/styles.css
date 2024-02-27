@@ -71,8 +71,9 @@ p{
 	width:40%;
 }
 
-.photo .img{
-	content:fit;
+.photo img{
+	top:50%;
+	left:10%;
 	height: 10px;
 	width: 15px;
 }
