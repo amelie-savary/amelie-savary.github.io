@@ -73,8 +73,8 @@ p{
 
 .photo img{
 	postion: absolute;
-	top:75%;
-	right: 5%;
+	top:80%;
+	right: 10%;
 	height: 170px;
 	width: 230px;
 }
@@ -479,17 +479,17 @@ p{
 	right: 20%;
 }
 
-.images .image-card{
+.images image-card{
 	display: flex;
 	align-items: center;
 	margin-bottom: 50px;
 }
 
-.images .image-card .image-left{
+.images image-card image-left{
 	margin-right: 40px;
 }
 
-.images .image-card .image-left img{
+.images image-card image-left img{
 	height: 400px;
 	width: 400px;
 	width:100%;
@@ -498,21 +498,21 @@ p{
 	transition:.4s ease;
 }
 
-.images .image-card .image-left:hover img{
+.images image-card image-left:hover img{
 	filter: brightness(70%);
 }
 
-.images .image-card .image-right{
+.images image-card image-right{
 	margin-right: 40px;
 }
 
-.images .image-card .image-right h4{
+.images image-card image-right h4{
 	font-size:2rem;
 	margin-bottom:20px;
 	style:"text-decoration:none";
 }
 
-.images .image-card .image-right p{
+.images image-card image-right p{
 	font-size:1.5rem;
 	line-height:1.5em;
 	style:"text-decoration:none";
