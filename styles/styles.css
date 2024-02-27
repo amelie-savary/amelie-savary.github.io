@@ -72,6 +72,7 @@ p{
 }
 
 .photo img{
+	postion: absolute;
 	top:75%;
 	right: 5%;
 	height: 170px;
