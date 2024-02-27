@@ -50,8 +50,13 @@ p{
 
 .slider-content photo img{
 	postion: absolute;
-	height: 10%;
-	width: 15%;
+	top: 10%;
+	left:20%:
+	width:150px;
+	height:100px;
+	aspect-ratio:1/1;
+	object-fit: contain;
+	
 }
 
 .section{
