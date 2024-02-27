@@ -49,11 +49,11 @@ p{
 }
 
 .slider-content photo img{
-	postion: absolute;
+	postion: relative;
 	top: 40%;
-	left:50%;
-	height: 170px;
-	width: 230px;
+	left: 50%;
+	height: 200px;
+	width: 290px;
 }
 
 .section{
