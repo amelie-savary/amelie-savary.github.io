@@ -48,7 +48,7 @@ p{
 	font-weight:300;
 }
 
-.slider slider-content photo img{
+.photo img{
 	postion: absolute;
 	width:150px;
 	height:100px;
