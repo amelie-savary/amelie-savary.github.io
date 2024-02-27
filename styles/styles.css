@@ -477,39 +477,39 @@ p{
 	right: 20%;
 }
 
-.images .image-card{
+.image-card{
 	display: flex;
 	align-items: center;
 	margin-bottom: 50px;
 }
 
-.images .image-card .image-left{
+.image-left{
 	margin-right: 40px;
 }
 
-.images .image-card .image-left img{
+.image-left img{
 	height: 400px;
 	width: 400px;
 	filter:brightness(40%);
 	transition:.4s ease;
 }
 
-.images .image-card .image-left:hover img{
+.image-left:hover img{
 	filter: brightness(80%);
 }
 
-.images .image-card .image-right{
+.image-right{
 	margin-right: 40px;
 }
 
-.images .image-card .image-right h4{
+.image-right h4{
 	font-size:2rem;
 	margin-bottom:20px;
-	style:text-decoration:none;
+	text-decoration:none;
 }
 
-.images .image-card .image-right p{
+.image-right p{
 	font-size:1.5rem;
 	line-height:1.5em;
-	style:text-decoration:none;
+	text-decoration:none;
 }
