@@ -491,13 +491,6 @@ p{
 	transition:.4s ease;
 }
 
-.images .image-card .image-right a{
-	display: block;
-	width:100%;
-	height:100%;
-	style:"text-decoration:none";
-}
-
 .images .image-card .image-left:hover img{
 	filter: brightness(70%);
 }
@@ -509,9 +502,11 @@ p{
 .images .image-card .image-right h4{
 	font-size:2rem;
 	margin-bottom:20px;
+	style:"text-decoration:none";
 }
 
 .images .image-card .image-right p{
 	font-size:1.5rem;
 	line-height:1.5em;
+	style:"text-decoration:none";
 }
