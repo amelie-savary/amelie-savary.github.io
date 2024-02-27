@@ -50,6 +50,8 @@ p{
 
 .slider-content photo img{
 	postion: absolute;
+	top: 40%;
+	left:50%;
 	height: 170px;
 	width: 230px;
 }
