@@ -48,15 +48,12 @@ p{
 	font-weight:300;
 }
 
-.slider-content photo img{
+.slider slider-content photo img{
 	postion: absolute;
 	top: 10%;
 	left:20%:
 	width:150px;
 	height:100px;
-	aspect-ratio:1/1;
-	object-fit: contain;
-	
 }
 
 .section{
